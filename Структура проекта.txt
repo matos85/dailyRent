@@ -45,7 +45,3 @@ rent-app/
 ├── postcss.config.js       # Конфигурация PostCSS
 ├── package.json            # Файл зависимостей
 └── README.md               # Документация проекта
-
-
-T
-

@@ -10,7 +10,7 @@ daily rent of apartments / посуточная сдача квартир
 
 Утилиты: Папка utils для хранения функций и конфигураций, таких как API.
 
-## Getting Started
+## Приступаем к работе
 
 First, run the development server:
 
@@ -24,4 +24,4 @@ pnpm dev
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Откройте [http://localhost:3000](http://localhost:3000) в вашем браузере, чтобы увидеть результат.

@@ -7,7 +7,7 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]">
-      <header className="flex justify-center items-center h-20">
+      <header >
       <nav class="bg-white border-gray-200 dark:bg-gray-900">
         <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
           <img src="../logo1.svg" class="h-8" alt="Аренда по суточно Logo" />

@@ -1,4 +1,6 @@
+import Navbar from '../../components/nav-dashbord';
 import Link from 'next/link';
+
 
 export default function Dashboard() {
   return (
@@ -30,8 +32,12 @@ export default function Dashboard() {
         </ul>
       </nav>
 
+
+
+
       {/* Основное содержимое */}
       <div className="flex-grow p-6">
+      <Navbar />
         <h1 className="text-2xl font-bold">Основное содержимое</h1>
         {/* Здесь будет динамическое содержимое, загружаемое через маршрутизацию */}
       </div>

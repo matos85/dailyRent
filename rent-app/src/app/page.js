@@ -15,7 +15,7 @@ export default function Home() {
       <nav class="bg-white rounded-lg shadow-sm border-gray-2000">
         <a href="https://flowbite.com/" class="flex items-center space-x-3 rtl:space-x-reverse">
         <img src="https://flowbite.com/docs/images/logo.svg"  class="h-8" alt="Аренда по суточно Logo" />
-          <span class="self-center text-2xl font-semibold whitespace-nowrap ">Аренда по суточно</span>
+          <span class="self-center text-2xl font-semibold whitespace-nowrap ">Аренда посуточно</span>
         </a>
 
         <div class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4">
@@ -82,7 +82,7 @@ export default function Home() {
             <div className="sm:flex sm:items-center sm:justify-between">
                 <a href="https://flowbite.com/" className="flex items-center mb-4 sm:mb-0 space-x-3 rtl:space-x-reverse">
                     <img src="https://flowbite.com/docs/images/logo.svg" className="h-8" alt="Flowbite Logo" />
-                    <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Аренда по суточно</span>
+                    <span className="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Аренда посуточно</span>
                 </a>
                 <ul className="flex flex-wrap items-center mb-6 text-sm font-medium text-gray-500 sm:mb-0 dark:text-gray-400">
                     <li>

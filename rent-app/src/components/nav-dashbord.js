@@ -20,7 +20,7 @@ const Navbar = () => {
     };
 
     const navigateToAddObject = () => {
-        router.push('/AddObject'); // Переход на страницу добавления объекта
+        router.push('Add/AddObject'); // Переход на страницу добавления объекта
     };
 
     return (

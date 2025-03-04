@@ -15,7 +15,7 @@ const Layout = ({ children }) => {
               </Link>
             </li>
             <li>
-              <Link href="/dashboard/clients" className="block p-2 hover:bg-gray-700 rounded">
+              <Link href="/dashboard/clientsReservations" className="block p-2 hover:bg-gray-700 rounded">
                 Клиенты и бронь
               </Link>
             </li>

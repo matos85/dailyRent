@@ -1,4 +1,3 @@
-// pages/checkin-checkout.js
 import Layout from '../../../../components/Navbar';
 import Navbar from '../../../../components/nav-dashbord';
 import SidebarMenu from '@/components/nav-clientsReservations'; 

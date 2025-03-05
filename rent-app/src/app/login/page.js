@@ -20,7 +20,7 @@ export default function Login() {
         <button type="submit" className="text-white bg-blue-700 hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm w-full sm:w-auto px-5 py-2.5 text-center">Войти</button>
         <br/><br/>
         <div className="flex items-center justify-center">
-          <a href="/dashboard" className="text-white bg-red-600 hover:bg-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center">
+          <a href="/dashboard/calendar" className="text-white bg-red-600 hover:bg-blue-700 focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-5 py-2.5 text-center">
             ВРЕМЕННАЯ КНОПКА (будет удалена). Для перехода на ПАНЕЛЬ УПРАВЛЕНИЯ пока нет авторизации/регистрации
           </a>
         </div>
